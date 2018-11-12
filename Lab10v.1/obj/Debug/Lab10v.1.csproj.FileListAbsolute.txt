@@ -1,0 +1,7 @@
+C:\Users\AugustLabTop\source\repos\Lab10v.1\Lab10v.1\bin\Debug\Lab10v.1.exe.config
+C:\Users\AugustLabTop\source\repos\Lab10v.1\Lab10v.1\bin\Debug\Lab10v.1.exe
+C:\Users\AugustLabTop\source\repos\Lab10v.1\Lab10v.1\bin\Debug\Lab10v.1.pdb
+C:\Users\AugustLabTop\source\repos\Lab10v.1\Lab10v.1\obj\Debug\Lab10v.1.csprojAssemblyReference.cache
+C:\Users\AugustLabTop\source\repos\Lab10v.1\Lab10v.1\obj\Debug\Lab10v.1.csproj.CoreCompileInputs.cache
+C:\Users\AugustLabTop\source\repos\Lab10v.1\Lab10v.1\obj\Debug\Lab10v.1.exe
+C:\Users\AugustLabTop\source\repos\Lab10v.1\Lab10v.1\obj\Debug\Lab10v.1.pdb
